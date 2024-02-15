@@ -1,0 +1,48 @@
+.nav1{
+    background-color: rgb(165, 148, 136)!important;
+    box-shadow: 1px 3px 15px rgb(26, 25, 25);
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: darkseagreen;
+}
+
+.navdiv3{
+    display: flex;
+    
+}
+
+.navdiv5{
+    font-weight: bolder;
+    font-size: 2rem;
+    
+}
+
+.a{
+    color: rgb(241, 235, 241) !important;
+    font-weight: bold ;
+    margin-right: 50px;
+}
+
+.a:hover{
+    color: cyan !important;
+}
+
+.split{
+   margin: 100px;
+   margin-top: 200px;
+   font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+.split h2 {
+    font-weight: bold;
+    margin-top: 30px;
+    
+}
+
+.split h5{
+    color: rgb(247, 22, 14);
+}
